@@ -1,0 +1,1 @@
+This error occurs when you try to use a component that hasn't been imported correctly.  This often happens when you rename a component file but forget to update the import statement in other files that use the component.
