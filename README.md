@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native development: forgetting to update import statements after renaming a component file. The `bug.js` file shows the incorrect import, leading to the error. The `bugSolution.js` file shows the corrected import.
